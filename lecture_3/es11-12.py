@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from scipy.stats import poisson
 import numpy as np
-from es import gaussian
 
 
 '''Write a Python program to draw a Poisson distribution 
@@ -31,4 +30,3 @@ if __name__ == '__main__':
     ax.legend()
     
     plt.show()
-    '''prova'''
